@@ -27,9 +27,9 @@
     "json-query": "^2.2.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
-    "nanoid": "3.3.4",
+    "nanoid": "3.3.18",
     "node-fetch": "2.*",
-    "node-vault": "^0.10.2",
+    "node-vault": "^0.12.0",
     "uuid": "^9.0.0"
   }
 }
